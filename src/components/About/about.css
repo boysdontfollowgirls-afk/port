@@ -120,12 +120,12 @@ transition: 0.5s;
   .about-left {
     width: 100%;
     height: auto;
-    margin-top: 20px;
+    margin-top: 0px;
   }
   .about-left img{
     height: 300px;
     width: 300px;
-    margin-left: 150px;
+    margin-left: 20px;
 
   }
   .about-right {

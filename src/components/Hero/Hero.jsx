@@ -11,7 +11,7 @@ const Hero = () => {
       <p>
         I am a mern stack develpoer , I have Strong Technical Knowledge in both
         Frontend and Backend Technologies like
-        React-js,Node-js,Express-js,Moongodb ete...
+        React-js,Node-js,Express-js,Moongodb etc...
       </p>
       <div className="hero-action">
         <div className="hero-connect"> <AnchorLink className='anchor-link' offset={50} href='#contact'>Connect with me </AnchorLink></div>

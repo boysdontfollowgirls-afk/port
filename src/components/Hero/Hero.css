@@ -81,12 +81,17 @@
         flex-direction: column; 
         gap: 15px; 
         font-size: 18px; 
-        margin-bottom: 30px; 
+        margin-bottom: 20px; 
+    }
+    .hero-connect{
+        font-size: small;
+        margin-left: 20px;
     }
     .hero-connect,
     .hero-resume {
-        padding: 15px 30px; 
+        padding: 10px 30px; 
         width: 100%; 
-        max-width: 250px; 
+
+        max-width: 110px; 
     }
 }
